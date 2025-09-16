@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/images/lab_banner.jpg" alt="Computational Ethnography Lab Banner" width="100%">
+  <img src="images/lab_banner.jpg" alt="Computational Ethnography Lab Banner" width="100%">
 </p>
 
 # The Computational Ethnography Lab (CEL) 
