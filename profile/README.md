@@ -31,7 +31,7 @@ Co-Director, [Center for Computational Insights on Inequality and Society (CIISR
 **Health policy**: aging, alzheimer's disease and related dementias, social determinants of health, decision making, end of life, methodology (mixed-methods, big "qual" data)  
 
 <div align="center">
-  <img src="profile/images/fieldwork_photo.jpg" alt="Fieldwork Photo">
+  <img src="images/fieldwork_photo.jpg" alt="Fieldwork Photo">
   <p><em>"Sunday": A photo from Professor Abramson’s fieldwork.</em></p>
 </div>
 
@@ -68,13 +68,13 @@ Co-Director, [Center for Computational Insights on Inequality and Society (CIISR
 - CMAP- Visualization Toolkit
 *Sample Visualizations (from cmap_visualization_toolkit, using public data on Scientists Careers)*
 Examples are paired with qualitative data, to show both patterns and specifics:
-![Heatmap Visualization](profile/images/heatmap_visualization.png)  
+![Heatmap Visualization](images/heatmap_visualization.png)  
 *A heatmap visualizing patterned variation in interviews*
-![Semantic Network](profile/images/semantic_network.png)  
+![Semantic Network](images/semantic_network.png)  
 *A semantic network illustrating the relationships between concepts in field notes and interviews.*
-![t-SNE Visual](profile/images/tsne.png)  
+![t-SNE Visual](images/tsne.png)  
 *A t-SNE plot.*
-![Wordcloud](profile/images/wordcloud.png)  
+![Wordcloud](images/wordcloud.png)  
 *A word-cloud, with user defined concept groups represented as color coding.*
 
 *Data translation tool*
