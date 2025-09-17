@@ -54,7 +54,7 @@ Co-Director, [Center for Computational Insights on Inequality and Society (CIISR
 - [**Jakira Silas, Graduate Student**](https://profiles.rice.edu/student/jakira-silas) — Graduate Student, Sociology, Rice University
 
 ## Selected Publications on Computational Ethnography
-- *Working Paper:* **Qualitative Research in an Era of AI: A Pragmatic Approach to Data Analysis, Workflow, and Computation.** [link](https://osf.io/preprints/socarxiv/7bsgy_v1))
+- *Working Paper:* **Qualitative Research in an Era of AI: A Pragmatic Approach to Data Analysis, Workflow, and Computation.** [link](https://osf.io/preprints/socarxiv/7bsgy_v1)
 - *Blog on Uses:* Abramson, Corey M. 2024. “From Carbon Paper to Code: Crafting Sociology in an Age of AI.” *Contexts* Blog. [Link](https://contexts.org/blog/soc-ai/)
 - *Workflow*: Li, Zhuofan, and Corey M. Abramson. 2025. “Ethnography and Machine Learning: Synergies and New Directions.” Pp. 245–272 in The Oxford Handbook of the Sociology of Machine Learning, edited by C.Borch and J. P. Pardo-Guerra. Oxford: Oxford University Press.[Link](https://arxiv.org/pdf/2412.06087)  
 - *Principles*: Abramson, Corey M., Jacqueline Joslyn, Katharine A. Rendle, Sarah B. Garrett, and Daniel Dohan. 2018. “The Promises of Computational Ethnography.” *Ethnography* 19(2):254–284. [DOI](https://doi.org/10.1177/1466138117725340)  
