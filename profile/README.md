@@ -58,9 +58,9 @@ Co-Director, [Center for Computational Insights on Inequality and Society (CIISR
 - [**Tara Prendergast, Ph.D. Candidate**](https://sociology.arizona.edu/person/tara-prendergast) — School of Sociology, University of Arizona  
 - [**Victoria (Yuhan) Nian**](https://www.linkedin.com/in/yuhannian) — Undergraduate Student, Statistics/Data Science, Rice University  
 - [**Jakira Silas, Graduate Student**](https://profiles.rice.edu/student/jakira-silas) — Graduate Student, Sociology, Rice University
+- [**Kieran Turner, Graduate Sudent**](https://profiles.rice.edu/student/kieran-turner) - Graduate Student, Sociology, Rice University
 
 ## Further Reading & Resources
-
 You can read a recent review article [here](https://osf.io/preprints/socarxiv/7bsgy_v1).
 
 #### Selected Publications on Computational Ethnography
@@ -73,23 +73,15 @@ You can read a recent review article [here](https://osf.io/preprints/socarxiv/7b
 -   *Foundational*: Abramson, Corey M. and Daniel Dohan. 2015. “Beyond Text: Using Arrays to Represent and Analyze Ethnographic Data.” *Sociological Methodology* 45(1):272–319. [Open Access](https://pmc.ncbi.nlm.nih.gov/articles/PMC4730903)
 
 #### Citations 
-Abramson, Corey M., Jacqueline Joslyn, Katharine A. Rendle, Sarah B. Garrett, and Daniel Dohan. 2018. “The Promises of Computational Ethnography: Improving Transparency, Replicability, and Validity for Realist Approaches to Ethnographic Analysis.” Ethnography 19(2):254–84. doi:10.1177/1466138117725340.
-
-Abramson, Corey, Zhuofan Li, Tara Prendergast, and Daniel Dohan. 2025. “Qualitative Research in an Era of AI: A Pragmatic Approach to Data Analysis, Workflow, and Computation.” SocArXiv. September 16. doi:10.31235/osf.io/7bsgy_v1.
-
-Breiger, Ronald L. 2015. “Scaling Down.” Big Data & Society 83(7):42–44. doi:10.1177/2053951715602497.
-
-Du Bois, W. E. B. (William Edward Burghardt). 1899. The Philadelphia Negro: A Social Study. Philadelphia: University of Pennsylvania Press.
-
-Du Bois, W. E. B. (William Edward Burghardt). 1900. Charts and Graphs Showing the Condition of African Americans at the Turn of the Century Exhibited at the Paris Exposition Universelle in 1900. Washington, D.C.: Library of Congress, Prints & Photographs Division.
-
-DiMaggio, Paul. 2015. “Adapting Computational Text Analysis to Social Science (and Vice Versa).” Big Data & Society 2(2):2053951715602908. doi:10.1177/2053951715602908.
-
-Hanson, Kenneth R., and Nicholas Theis. 2024. “Networked Participants, Networked Meanings: Using Networks to Visualize Ethnographic Data.” Sociological Methodology 54(1):142–56. doi:10.1177/00811750231195338.
-
-Nelson, Laura K. 2020. “Computational Grounded Theory: A Methodological Framework.” Sociological Methods & Research 49(1):3–42. doi:10.1177/0049124117729703.
-
-Small, Mario Luis. 2011. “How to Conduct a Mixed Methods Study: Recent Trends in a Rapidly Growing Literature.” Annual Review of Sociology 37(1):57–86. doi:10.1146/annurev.soc.012809.102657.
+- Abramson, Corey M., Jacqueline Joslyn, Katharine A. Rendle, Sarah B. Garrett, and Daniel Dohan. 2018. “The Promises of Computational Ethnography: Improving Transparency, Replicability, and Validity for Realist Approaches to Ethnographic Analysis.” Ethnography 19(2):254–84. doi:10.1177/1466138117725340.
+- Abramson, Corey, Zhuofan Li, Tara Prendergast, and Daniel Dohan. 2025. “Qualitative Research in an Era of AI: A Pragmatic Approach to Data Analysis, Workflow, and Computation.” SocArXiv. September 16. doi:10.31235/osf.io/7bsgy_v1.
+- Breiger, Ronald L. 2015. “Scaling Down.” Big Data & Society 83(7):42–44. doi:10.1177/2053951715602497.
+- Du Bois, W. E. B. (William Edward Burghardt). 1899. The Philadelphia Negro: A Social Study. Philadelphia: University of Pennsylvania Press.
+- Du Bois, W. E. B. (William Edward Burghardt). 1900. Charts and Graphs Showing the Condition of African Americans at the Turn of the Century Exhibited at the Paris Exposition Universelle in 1900. Washington, D.C.: Library of Congress, Prints & Photographs Division.
+- DiMaggio, Paul. 2015. “Adapting Computational Text Analysis to Social Science (and Vice Versa).” Big Data & Society 2(2):2053951715602908. doi:10.1177/2053951715602908.
+- Hanson, Kenneth R., and Nicholas Theis. 2024. “Networked Participants, Networked Meanings: Using Networks to Visualize Ethnographic Data.” Sociological Methodology 54(1):142–56. doi:10.1177/00811750231195338.
+- Nelson, Laura K. 2020. “Computational Grounded Theory: A Methodological Framework.” Sociological Methods & Research 49(1):3–42. doi:10.1177/0049124117729703.
+- Small, Mario Luis. 2011. “How to Conduct a Mixed Methods Study: Recent Trends in a Rapidly Growing Literature.” Annual Review of Sociology 37(1):57–86. doi:10.1146/annurev.soc.012809.102657.
 
 ## Tools, Code & Tutorials  
 
