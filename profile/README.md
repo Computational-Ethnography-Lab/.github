@@ -6,9 +6,10 @@
 
 *Deploying and developing cutting-edge methodological techniques at the intersection of field research and computational social science to address complex problems of scientific and policy importance.* Located @ Rice University.
 
-You can download the latest version of our CMAP* Visualization Toolkit [here](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) or access an online version on [google collab](https://colab.research.google.com/drive/1n90EDMSiXhIaOULUMPJ4W4hqdZCh1NQw?usp=sharing).
+You can download the latest version of our CMAP* Visualization Toolkit [here](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) or access an online version on [google collab](https://colab.research.google.com/drive/1n90EDMSiXhIaOULUMPJ4W4hqdZCh1NQw?usp=sharing).  
+_* CMAP = Cultural Mapping and Pattern Analysis_  
+[![GitHub release](https://img.shields.io/github/v/release/Computational-Ethnography-Lab/cmap_visualization_toolkit?include_prereleases)](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit/releases)
 
-_* CMAP = Cultural Mapping and Pattern Analysis_
 
 <sub><i>⚠️ Repository Status: This GitHub repository is currently under development. Documentation, code, and features are actively being updated/added and may be incomplete or subject to change.</i></sub>
 ---
