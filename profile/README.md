@@ -4,9 +4,11 @@
 
 # The Computational Ethnography Lab (CEL) 
 
-*Deploying and developing cutting-edge methodological techniques at the intersection of field research and computational social science to address complex problems of scientific and policy importance.* Located @ Rice University
+*Deploying and developing cutting-edge methodological techniques at the intersection of field research and computational social science to address complex problems of scientific and policy importance.* Located @ Rice University.
 
-You can download the latest version of the full visualization toolkit [here](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) or access an online version on [google collab](https://colab.research.google.com/drive/1n90EDMSiXhIaOULUMPJ4W4hqdZCh1NQw?usp=sharing).
+You can download the latest version of our CMAP* Visualization Toolkit [here](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) or access an online version on [google collab](https://colab.research.google.com/drive/1n90EDMSiXhIaOULUMPJ4W4hqdZCh1NQw?usp=sharing).
+
+_* CMAP = Cultural Mapping and Pattern Analysis_
 
 <sub><i>⚠️ Repository Status: This GitHub repository is currently under development. Documentation, code, and features are actively being updated/added and may be incomplete or subject to change.</i></sub>
 ---
@@ -15,15 +17,15 @@ You can download the latest version of the full visualization toolkit [here](htt
 
 ## The Computational Ethnography Lab (CEL)
 
-The Computational Ethnography Lab is an interdisciplinary group developing and applying computational tools to analyze qualitative data. While affiliated scholars pursue diverse topics, our work concentrates on social inequality, health, institutions, networks, and culture. Our core commitments include building community, practicing methodological transparency, and advancing social science knowledge that serves broader public benefit.
+The Computational Ethnography Lab is an interdisciplinary group developing and applying computational tools to analyze qualitative data. While affiliated scholars pursue diverse topics, our work concentrates on social inequality, health, institutions, networks, and culture. Our core commitments include building community, practicing methodological transparency, and advancing social science knowledge for broader public benefit.
 
 ## What is Computational Ethnography?
 
 Computational ethnography is a methodological approach that combines in-depth analysis of text data produced in research—such as ethnographic field notes, interview transcripts, historical documents, or web posts—with tools for pattern analysis and visualization. This approach maintains a focus on situating meaning and behavior in real-world contexts, while integrating tools from computational social science (CSS). Natural language processing (NLP), machine learning (ML), and various types of data visualization help represent patterns, test emerging typologies, facilitate comparison, and analyze individual and team-based datasets alongside in-depth human reading.
 
-A core principle is connecting levels of analysis—much like alternating between digital maps and street views—to gain a broader vantage that may be obscured by either the scope (computational) or granularity (qualitative) of a single mode of inquiry. In this sense, computational ethnography extends classic sociological concerns with using multiple methods, data types, and forms of analysis to better understand topics of interest (Du Bois 1899, 1900; Small 2011).
+A core principle is connecting levels of analysis—much like alternating between digital maps and street views—to gain a broader vantage that may be obscured by either the scope (quantiative) or granularity (qualitative) of a single mode of inquiry. In this sense, computational ethnography extends the classical sociological strategy of using multiple methods, data types, and forms of analysis to better understand topics of importance (Du Bois 1899, 1900; Small 2011).
 
-Computational ethnography extends rather than replaces human reasoning by linking aggregate patterns with contextual details, and by enabling the analysis of larger volumes of text than would be feasible without computation. The goal is not to remove but to add to the contextual depth that distinguishes ethnographic work, while enhancing the capacity to answer new questions or revisit old ones in new ways (c.f. Abramson et al. 2018, 2025). This goal parallels emergent scholarship at the intersection of scaling up field methods and connecting “big data” to in-depth content (Abramson and Dohan 2015; Breiger 2015; Hanson and Theis 2024; Nelson 2020; DiMaggio, Nag, and Blei 2013).
+Computational ethnography extends rather than replaces human reasoning by linking aggregate patterns with contextual details, and by enabling the analysis of larger volumes of text than would be feasible without computation. The goal is not to remove, but to add to, the contextual depth that distinguishes ethnographic work, while enhancing the capacity to answer new questions or revisit old ones in new ways (c.f. Abramson et al. 2018, 2025). This goal overlaps with emergent scholarship at the intersection of 'scaling up' field methods and connecting “big data” to in-depth content to better understand complex issues in fields like health, culture, stratification, and social networks (Abramson and Dohan 2015; Breiger 2015; Hanson and Theis 2024; Nelson 2020; DiMaggio, Nag, and Blei 2013).
 
 ## Principal Investigator
 
@@ -148,23 +150,24 @@ No, not in our opinion. Because:
 
 1. Ethnography has long encompassed varied research paradigms—including scientific variable-centric approaches combining quantitative data or networks, case-based alternatives that aim for complementarity, and critical as well as humanist traditions. We even published a book on how approaches such as the extended case method, behavioralism, phenomenology, postmodernism, and grounded theory approach the craft: [Beyond the Case (Oxford, 2020)](https://global.oup.com/academic/product/beyond-the-case-9780190608491?cc=us&lang=en&#).
 
-2. Fields including sociology have long combined multiple research methods, often with a goal of triangulation or connecting different levels of analysis. Long before modern computing or the term Mixed-Methods, scholars including Du Bois used fieldwork, history, data visualization, and surveys in parallel to generate insights. Anthropologist D’Andrade introduced heat maps to visualize linguistic domains and cognitive schema in the 1970s, ethnographers have quantified behavior and employed network plots, and scholars of culture including Cerulo and Mohr combined historical information with formal and computational analyses shortly after the entry of modern computing. 
+2. Fields including sociology have long combined multiple research methods, often with a goal of triangulation or connecting different levels of analysis. Long before modern computing or the term Mixed-Methods, scholars including Du Bois used fieldwork, history, data visualization, and surveys in parallel to generate insights. In the modern era, Anthropologist D’Andrade introduced heat maps to visualize linguistic domains and cognitive schema in the 1970s, ethnographers have quantified behavior and employed network plots,  scholars of culture (e.g. Bearman, Cerulo, Mohr) combined historical information with formal and computational analyses shortly after the entry of modern computing. 
 
 3. The use of computation was already widespread when I began my career as an undergraduate at Berkeley's [Center for Ethnographic Research](https://issi.berkeley.edu/cer/about). This is seen not only in computer-assisted qualitative data analysis (CAQDA), or the [proliferation of AI](https://www.cultureofmedicine.org/blog/a-silicon-cage-qualitative-research-in-the-era-of-ai), but in myriad digital tools we use even for methods assumed to be analog (like ethnography). The contours of algorithmic and ordinal society shape our work in ways both overt and subtle—grammar checkers and auto-complete suggestions, how books and articles get indexed in libraries, sorting algorithms in web searches, targeted marketing and news feeds that shape our perceptions and mood, chatbots, and deepfakes. This makes [thoughtful use](https://osf.io/preprints/socarxiv/7bsgy_v1), and perhaps social scientific inquiry using ethnography to understand life in situ, more important than ever—and has parallels to how thinkers radically repurposed bureaucratic technologies to [facilitate imaginative social inquiry](https://contexts.org/blog/soc-ai/) in previous eras.  
 
 #### _Can I Use Your Tools If I Don’t Agree With You About Something?_
+Yes. Absolutely.  
 
-Yes.  Absolutely.
+The tools were assembled based on interest and feedback over the past five years, and build on prior work in teaching and developing qualitative methodology. Many of the visualizations (heatmaps, semantic networks, word clouds, dimensional reduction) have been used across diverse research paradigms and use cases—academic research and community organizing, quantitative social science and computational text analysis, studies of temporality and health policy, and scientific as well as humanistic applications.  
 
-The tools were assembled pragmatically, based on interest and feedback over the past five years. Many (heatmaps, semantic networks, wordclouds, dimensional reduction) have been used across diverse research paradigms—academic research and community organizing, quantitative social science and computational text analysis, scientific and humanistic applications. Feel free to use and adapt. If you develop something new and cool, please consider sharing. But if not, we hope you find something of value.  
+Feel free to use and adapt. If you develop something new and useful, please consider sharing. If you have suggestions, that's great too. Regardless, we hope you find something of value.  
 
-License information is below: this is free  software, intended to encourage collaboration, for broader non-commercial; ideally to address shared challenges rather than create barriers.  
+License information is below: this is free software, intended to encourage collaboration, for broader non-commercial use with attribution; ideally to address shared challenges rather than create barriers.  
 
 #### _Can I help?_
 For any inquiries or errors, please email me at corey.abramson@rice.edu
 
-
-You can read a recent review piece about underlying principles of combining computation and qualitative analysis [here](https://osf.io/preprints/socarxiv/7bsgy_v1) and see more examples (over time), scholarly references and principles [here](https://github.com/Computational-Ethnography-Lab).
+#### _Anything else?_
+You can read a recent review piece about underlying principles of combining computation and qualitative analysis [here](https://osf.io/preprints/socarxiv/7bsgy_v1) and see more examples (over time), more scholarly references and principles [here](https://github.com/Computational-Ethnography-Lab).
 
 
 
