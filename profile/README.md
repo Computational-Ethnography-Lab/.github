@@ -142,29 +142,27 @@ Arteaga et al., Forthcoming,_The Gerontologist_,  [Understanding how social cont
 #### _What is Computational Ethnography?_
 See above. 
 
+
 #### _Computers and Ethnography? Isn't that an oxymoron?_
 No, not in our opinion. Because:
 
 1. Ethnography has long encompassed varied research paradigms—including scientific variable-centric approaches combining quantitative data or networks, case-based alternatives that aim for complementarity, and critical as well as humanist traditions. We even published a book on how approaches such as the extended case method, behavioralism, phenomenology, postmodernism, and grounded theory approach the craft: [Beyond the Case (Oxford, 2020)](https://global.oup.com/academic/product/beyond-the-case-9780190608491?cc=us&lang=en&#).
 
-2. Fields including sociology have long combined multiple methods pragmatically, often with a goal of triangulation or connecting different levels of analysis. Long before modern computing or the term Mixed-Methods, scholars including Du Bois used fieldwork, data visualization, and surveys in parallel to generate insights. Anthropologist D’Andrade introduced heat maps to visualize cultural domains in the 1970s, and cultural scholars including Cerulo and Mohr combined historical information with formal or computational analyses in parallel ways shortly after the entry of modern computing. 
+2. Fields including sociology have long combined multiple research methods, often with a goal of triangulation or connecting different levels of analysis. Long before modern computing or the term Mixed-Methods, scholars including Du Bois used fieldwork, history, data visualization, and surveys in parallel to generate insights. Anthropologist D’Andrade introduced heat maps to visualize linguistic domains and cognitive schema in the 1970s, ethnographers have quantified behavior and employed network plots, and scholars of culture including Cerulo and Mohr combined historical information with formal and computational analyses shortly after the entry of modern computing. 
 
-3. The use of computation was already widespread (in CAQDA and other analytic tools) and can shape our work whether we explicitly engage or not, so thoughtful use is more important than ever—or so we argue [here](https://osf.io/preprints/socarxiv/7bsgy_v1)—and here, drawing parallels to how bureaucratic technologies were repurposed to [facilitate imaginative social inquiry](https://contexts.org/blog/soc-ai/).
+3. The use of computation was already widespread when I began my career as an undergraduate at Berkeley's [Center for Ethnographic Research](https://issi.berkeley.edu/cer/about). This is seen not only in computer assised qualitative data analysis (CAQDA), but myriad digital tools we use even for analog methods, and the contours of algorithmic and ordinal society shape our work in ways both overt and subtle. This makes [thoughtful use](https://osf.io/preprints/socarxiv/7bsgy_v1) more important than ever— and has parallels to how thinkers radically repurposed bureaucratic technologies to [facilitate imaginative social inquiry](https://contexts.org/blog/soc-ai/) in previous eras.
 
 #### _Can I Use Your Tools If I Don’t Agree With You About Something?_
 
 Yes.  Absolutely.
 
-
 The tools were assembled pragmatically, based on interest and feedback over the past five years. Many (heatmaps, semantic networks, wordclouds, dimensional reduction) have been used across diverse research paradigms—academic research and community organizing, quantitative social science and computational text analysis, scientific and humanistic applications. Feel free to use and adapt. If you develop something new and cool, please consider sharing. But if not, we hope you find something of value.  
-
 
 License information is below: this is free  software, intended to encourage collaboration, for broader non-commercial; ideally to address shared challenges rather than create barriers.  
 
 #### _Can I help?_
 For any inquiries or errors, please email me at corey.abramson@rice.edu
 
-## Further Reading & Resources
 
 You can read a recent review piece about underlying principles of combining computation and qualitative analysis [here](https://osf.io/preprints/socarxiv/7bsgy_v1) and see more examples (over time), scholarly references and principles [here](https://github.com/Computational-Ethnography-Lab).
 
