@@ -132,14 +132,14 @@ Arteaga et al., Forthcoming,_The Gerontologist_,  [Understanding how social cont
   - [Introduction to Machine Learning for Coding Qualitative Research - Li et al.](https://github.com/lizhuofan95/ASA2022_Workshop)
 
 **Video Tutorials**:
+-  [Set-up CMAP toolkit and use in Collab](https://vimeo.com/1122226315)
 -  Set-up python environment (in progress)
--  Set-up CMAP toolkit (in progress)
 -  CMAP Visualization Walkthrough (in progress)
 -  CMAP Visualization advanced walkthrough (in progress)
 -  Data connector walkthrough (in progress)
 
 ### Other Resources
-- in progress
+- [General teaching page for using computational analyses with qualitative data](https://github.com/Computational-Ethnography-Lab/teaching/)
 
 ## FAQ
 ### _What is Computational Ethnography?_
