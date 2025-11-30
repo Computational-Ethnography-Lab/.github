@@ -6,13 +6,13 @@
 
 *Deploying and developing cutting-edge methodological techniques at the intersection of field research and computational social science to address complex problems of scientific and policy importance.* Located @ Rice University.
 
-New review article on Qualitative Research, AI and Computation [here](https://osf.io/preprints/socarxiv/7bsgy_v1](https://osf.io/preprints/socarxiv/7bsgy_v4))
+New review article on Qualitative Research, AI and Computation [here](https://osf.io/preprints/socarxiv/7bsgy_v4)
 
 You can download the latest version of our CMAP* Visualization Toolkit [here](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) or access an online version on [google collab](https://colab.research.google.com/drive/1n90EDMSiXhIaOULUMPJ4W4hqdZCh1NQw?usp=sharing).  
 _* CMAP = Cultural Mapping and Pattern Analysis_  
 [![GitHub release](https://img.shields.io/github/v/release/Computational-Ethnography-Lab/cmap_visualization_toolkit?include_prereleases)](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit/releases)
 
-You can find a resource page (in progress) for learning about computational tools for analyzing text data [here](https://github.com/Computational-Ethnography-Lab/teaching). This was designed as a  complement to the new working paper on [qualitative research in computational times](https://osf.io/preprints/socarxiv/7bsgy_v1)
+You can find a resource page (in progress) for learning about computational tools for analyzing text data [here](https://github.com/Computational-Ethnography-Lab/teaching). This was designed as a  complement to a forthcoming Annual Review of Sociology artilce on [qualitative research in computational times](https://osf.io/preprints/socarxiv/7bsgy_v4)
 and courses on data visualization and text analysis.
 
 <sub><i>⚠️ Repository Status: This GitHub repository is currently under development. Documentation, code, and features are actively being updated/added and may be incomplete or subject to change.</i></sub>
