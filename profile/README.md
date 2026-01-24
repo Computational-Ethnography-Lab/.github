@@ -6,14 +6,13 @@
 
 *Deploying and developing cutting-edge methodological techniques at the intersection of field research and computational social science to address complex problems of scientific and policy importance.* Located @ Rice University.
 
-New review article on Qualitative Research, AI and Computation [here](https://osf.io/preprints/socarxiv/7bsgy_v4)
+Preprint of new Annual Review of Sociology article on  Qualitative Research, AI and Computation [here](https://arxiv.org/abs/2509.12503)
 
-You can download the latest version of our CMAP* Visualization Toolkit [here](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) or access an online version on [google collab](https://colab.research.google.com/drive/1n90EDMSiXhIaOULUMPJ4W4hqdZCh1NQw?usp=sharing).  
+You can download the latest pre-release version of our CMAP* Visualization Toolkit [here](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) or access an online version on [Google Collab](https://colab.research.google.com/drive/1n90EDMSiXhIaOULUMPJ4W4hqdZCh1NQw?usp=sharing).  
 _* CMAP = Cultural Mapping and Pattern Analysis_  
 [![GitHub release](https://img.shields.io/github/v/release/Computational-Ethnography-Lab/cmap_visualization_toolkit?include_prereleases)](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit/releases)
 
-You can find a resource page (in progress) for learning about computational tools for analyzing text data [here](https://github.com/Computational-Ethnography-Lab/teaching). This was designed as a  complement to a forthcoming Annual Review of Sociology artilce on [qualitative research in computational times](https://osf.io/preprints/socarxiv/7bsgy_v4)
-and courses on data visualization and text analysis.
+You can find a resource page (in progress) for learning about computational tools for analyzing qualitative data [here](https://github.com/Computational-Ethnography-Lab/teaching). This is a  complement to a forthcoming Annual Review of Sociology article on [qualitative research in computational times](https://arxiv.org/abs/2509.12503) and courses on data visualization and text analysis.
 
 <sub><i>⚠️ Repository Status: This GitHub repository is currently under development. Documentation, code, and features are actively being updated/added and may be incomplete or subject to change.</i></sub>
 
@@ -30,7 +29,7 @@ and courses on data visualization and text analysis.
 ---
 
 ## About the Lab & Our Approach 
-The **Computational Ethnography Lab (CEL)** is an interdisciplinary group developing and applying computational tools to analyze qualitative data. While affiliated scholars pursue diverse topics, our work concentrates on social inequality, health, institutions, networks, and culture. Our core commitments include building community, practicing methodological transparency, and advancing social science knowledge for broader public benefit.
+The **Computational Ethnography Lab (CEL)** is an interdisciplinary group developing and applying computational tools to analyze qualitative data. While affiliated scholars pursue diverse topics, our work concentrates on social inequality, health, institutions, networks, and culture. Our core commitments include building community, practicing methodological transparency, and advancing open social science knowledge for broader public benefit.
 
 ## What is Computational Ethnography?
 
@@ -47,7 +46,7 @@ Computational ethnography extends rather than replaces human reasoning by linkin
 Co-Director, [Center for Computational Insights on Inequality and Society (CIISR)](https://ciisr.rice.edu/)  
 
 **Sociology**: stratification and inequality, health and medicine, culture, aging, networks, methodology (qualitative, computational and mixed methods), theory  
-**Health policy**: aging, alzheimer's disease and related dementias, social determinants of health, decision making, end of life, methodology (mixed-methods, big "qual" data)  
+**Health policy**: aging, Alzheimer's disease and related dementias, social determinants of health, decision making, end of life, methodology (mixed-methods, big "qual" data)  
 
 <div align="center">
   <img src="images/fieldwork_photo.jpg" alt="Fieldwork Photo">
@@ -57,7 +56,8 @@ Co-Director, [Center for Computational Insights on Inequality and Society (CIISR
 
 
 **Books:** *The End Game: How Inequality Shapes Our Final Years* (Harvard University Press)  
-*Beyond the Case* (Oxford University Press, with Neil Gong)
+*Beyond the Case* (Oxford University Press, with Neil Gong)  
+*Unequal Anatomies: Essays on the Social Stratification of Health and Illness* (Oxford University Press, under contract)
 
 <div style="display: flex; gap: 20px; align-items: flex-start; justify-content: center;">
  <img src="https://img1.wsimg.com/isteam/ip/dff15ce8-654f-45c1-b239-5b4ef2406687/Untitled.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,cg:true" alt="Book Covers" style="height: 400px; width: auto;">
@@ -69,28 +69,38 @@ Co-Director, [Center for Computational Insights on Inequality and Society (CIISR
 #### Affiliations
 
 - [Department of Sociology, Rice University](https://sociology.rice.edu/)  
-- [Center for Computational Insights on Inequality and Society (CIISR)](https://ciisr.rice.edu/)  
-- [Medical Cultures Lab, UCSF](https://www.cultureofmedicine.org)  
-- [Center for Ethnographic Research, UC Berkeley](https://issi.berkeley.edu/cer)  
+- [Center for Computational Insights on Inequality and Society (CIISR), Rice University](https://ciisr.rice.edu/)
+- [Data Science, Rice University](https://datascience.rice.edu/research/methods-development)
+- [Medical Cultures Lab, UC San Francisco](https://www.cultureofmedicine.org)  
+- [Center for Ethnographic Research, UC Berkeley](https://issi.berkeley.edu/cer)
+- [Institute of Health Resilience and Innovation, Rice University](https://ihri.rice.edu/)
+- [Ken Kennedy Institute, Rice University](https://kenkennedy.rice.edu/)
 
+#### Professional Service & Scientific Advisory
+
+[ASA Methodology Council](https://www.asanet.org/asa_sections/methodology/) (elected, 2025–2028) | [*Sociological Methodology* Editorial Board](https://www.asanet.org/publications/journals/sociological-methodology/) (2026–2028) | [GENDHI Project](https://gendhi.eu/en/home/) (scientific stakeholder, ERC) | [National Dementia Workforce Study](https://www.ndws.org/) (data architecture, NIH NIA) | [Qualitative Verification Project](https://qdr.syr.edu/) (participating PI, QDR) | [Building an Open Qualitative Science](https://www.rsfjournal.org/content/10/5) (contributor, RSF)
+  
 ### Key Contributors
 - [**Zhuofan Li, Ph.D.**](https://liberalarts.vt.edu/departments-and-schools/department-of-sociology/faculty/zhuofan-li.html) — Assistant Professor of Sociology, Virginia Tech  
-- [**Tara Prendergast, Ph.D. Candidate**](https://sociology.arizona.edu/person/tara-prendergast) — School of Sociology, University of Arizona  
+- [**Tara Prendergast, ABD**](https://sociology.arizona.edu/person/tara-prendergast) — Ph.D Candidate, Sociology, University of Arizona  
 - [**Victoria (Yuhan) Nian**](https://www.linkedin.com/in/yuhannian) — Undergraduate Student, Statistics/Data Science, Rice University  
-- [**Jakira Silas, Graduate Student**](https://profiles.rice.edu/student/jakira-silas) — Graduate Student, Sociology, Rice University
-- [**Kieran Turner, Graduate Student**](https://profiles.rice.edu/student/kieran-turner) - Graduate Student, Sociology, Rice University
-
+- [**Jakira Silas**](https://profiles.rice.edu/student/jakira-silas) — Graduate Student, Sociology, Rice University
+- [**Kieran Turner, ABD**](https://profiles.rice.edu/student/kieran-turner) - Ph.D Candidate, Sociology, Rice University
+- [**Rongchen Wang**](https://profiles.rice.edu/student/rongchen-wang) - Graduate Student, Sociology, Rice University
+- [**Daniel Dohan, Ph.D.**](https://profiles.ucsf.edu/daniel.dohan) — Professor, Health Policy, UC San Francisco; PI, Medical Cultures Lab
+  
 ## Further Reading and Resources
-You can read our most recent review piece here [here](https://osf.io/preprints/socarxiv/7bsgy_v1). 
+- You can read our most recent review piece [here](https://arxiv.org/abs/2509.12503).
+- Short CONTEXTS blog on emergent technology and sociology [here](https://contexts.org/blog/soc-ai/)
 
 ### Selected Publications on Computational Ethnography
--    *Qualitative Research in an Era of AI Review:*
--      Abramson, Corey M., Tara Prendergast, Zhuofan Li, Daniel Dolan. 2026 (forthcoming). “Qualitative Research in an Era of A: A Pragmatic Approach to Data Analysis, Workflow, and Computation”. Annual Review of Sociology. Vol 52. (reprint: link) [Link](https://osf.io/preprints/socarxiv/7bsgy_v4)
+-    *Qualitative Research in an Era of AI Review and Framework:* Abramson, Corey M., Tara Prendergast, Zhuofan Li, Daniel Dohan. 2026 (in press). "Qualitative Research in an Era of AI: A Pragmatic Approach to Data Analysis, Workflow, and Computation". Annual Review of Sociology. Vol 52. (reprint: link) [Link](https://arxiv.org/abs/2509.12503)
+-    -   *Accepted*: Li, Zhuofan, Daniel Dohan, and Corey M. Abramson. "Temporal Misalignment and Unequal Agency: What Terminal Cancer Patients Teach Us about Time and Inequality." *American Sociological Review*.
 -   *Blog on Uses:* Abramson, Corey M. 2024. “From Carbon Paper to Code: Crafting Sociology in an Age of AI.” *Contexts* Blog. [Link](https://contexts.org/blog/soc-ai/)
 -   *Workflow*: Li, Zhuofan, and Corey M. Abramson. 2025. “Ethnography and Machine Learning: Synergies and New Directions.” Pp. 245–272 in *The Oxford Handbook of the Sociology of Machine Learning*, edited by C.Borch and J. P. Pardo-Guerra. Oxford: Oxford University Press. [Link](https://arxiv.org/pdf/2412.06087)
 -   *Principles*: Abramson, Corey M., Jacqueline Joslyn, Katharine A. Rendle, Sarah B. Garrett, and Daniel Dohan. 2018. “The Promises of Computational Ethnography.” *Ethnography* 19(2):254–284. [DOI](https://doi.org/10.1177/1466138117725340)
 -   *Example*: Abramson, Corey M., Zhuofan Li, Tara Prendergast, and Martín Sánchez-Jankowski. 2024. “Inequality in the Origins and Experiences of Pain.” *RSF Journal of the Social Sciences* 10(5):34–65. [Open Access PDF](https://www.rsfjournal.org/content/rsfjss/10/5/34.full.pdf)
--   *Technical*: Li, Zhuofan, Daniel Dohan, and Corey M. Abramson. 2021. “Qualitative Coding in the Computational Era.” *Socius*. [Open Access](https://pmc.ncbi.nlm.nih.gov/articles/PMC10120879/)
+-   *Technical*: Li, Zhuofan, Daniel Dohan, and Corey M. Abramson. 2021. "Qualitative Coding in the Computational Era: A Hybrid Approach to Improve Reliability and Reduce Effort for Coding Ethnographic Interviews." *Socius* 7. (_Early example of scaling human coding using transformer models and human-in-the-loop approaches._) [Open Access](https://osf.io/preprints/socarxiv/gpr4n_v1) | [GitHub repo](https://github.com/lizhuofan95/Scaling_Human_Coding) | [Blog explanation](https://cmabramson.com/resources/f/using-machine-learning-with-ethnographic-interviews)
 -   *Foundational*: Abramson, Corey M. and Daniel Dohan. 2015. “Beyond Text: Using Arrays to Represent and Analyze Ethnographic Data.” *Sociological Methodology* 45(1):272–319. [Open Access](https://pmc.ncbi.nlm.nih.gov/articles/PMC4730903)
 
 ### Citations 
@@ -126,8 +136,10 @@ Examples are paired with qualitative data, to show both patterns and specifics:
 
 *Papers*
 - Heatmaps:
-Arteaga et al., Forthcoming,_The Gerontologist_,  [Understanding how social context shapes decisions to seek institutional care: A qualitative study of experiences of progressive cognitive decline among Latinx families. The Gerontologist.](https://github.com/Computational-Ethnography-Lab/replication_code/blob/51f7ab8b3dbabedc56e470a348904a4e70216809/latinx_array_final.R)
-
+Arteaga et al., 2025,_The Gerontologist_,  [Understanding how social context shapes decisions to seek institutional care: A qualitative study of experiences of progressive cognitive decline among Latinx families. The Gerontologist.](https://github.com/Computational-Ethnography-Lab/replication_code/blob/51f7ab8b3dbabedc56e470a348904a4e70216809/latinx_array_final.R)
+- Text Classification:
+- Li, Dohan and Abramson 2021. (_Early example of scaling human coding using transformer models and human-in-the-loop approaches._) [Qualitative Coding in the Computational Era. *Socius* (2021)](https://osf.io/preprints/socarxiv/gpr4n_v1) | [GitHub repo](https://github.com/lizhuofan95/Scaling_Human_Coding)
+  
 ### Teaching Resources
 
 **Blogs and Interactive Notebooks**:  
@@ -138,7 +150,7 @@ Arteaga et al., Forthcoming,_The Gerontologist_,  [Understanding how social cont
   - [Introduction to Machine Learning for Coding Qualitative Research - Li et al.](https://github.com/lizhuofan95/ASA2022_Workshop)
 
 **Video Tutorials**:
--  [Set-up CMAP toolkit and use in Collab](https://vimeo.com/1122226315)
+-  [Set-up CMAP toolkit and use in Google Colab](https://vimeo.com/1122226315)
 -  Set-up python environment (in progress)
 -  CMAP Visualization Walkthrough (in progress)
 -  CMAP Visualization advanced walkthrough (in progress)
@@ -160,7 +172,7 @@ No, not in our opinion. Because:
 
 2. Fields including sociology have long combined multiple research methods, often with a goal of triangulation or connecting different levels of analysis. Long before modern computing or the term mixed-methods gained popularity, scholars including Du Bois used fieldwork, history, data visualization, and surveys in parallel to generate insights. In the modern era, Anthropologist Roy D’Andrade introduced heat maps to visualize linguistic domains and cognitive schema in the 1970s, ethnographers have employed social network plots to chart cliques, and scholars of culture (e.g. Bearman, Cerulo, Mohr) have been combining rich historical information with formal and computational analyses since shortly after the entry of modern computing. 
 
-3. The use of computation was already widespread when I began my career as an undergraduate at Berkeley's [Center for Ethnographic Research](https://issi.berkeley.edu/cer/about). This is seen not only in computer-assisted qualitative data analysis software (CAQDAS- which I taught for decades), statistical computing, and the current [proliferation of AI](https://www.cultureofmedicine.org/blog/a-silicon-cage-qualitative-research-in-the-era-of-ai), but in myriad digital tools used in methods assumed to be analog (like ethnography). The contours of algorithmic/ordinal society shape our work in ways both overt and subtle. Grammar checkers and auto-complete suggestions nudge our use of language, indices of books and articles in libraries shape what we read (and how works get cited), sorting algorithms order our web searches, targeted marketing and news feeds shape our perceptions and mood during downtime, even before chatbots, automations and deepfakes. This makes [thoughtful use of qualitative computing](https://osf.io/preprints/socarxiv/7bsgy_v1), and perhaps social scientific inquiry using in-depth methods to understand life in situ, more important than ever. The challenge of navigating technology is not new however, and has some inspiring parallels in how thinkers repurposed  technologies like filing cabinets to [facilitate rigorous and imaginative social inquiry](https://contexts.org/blog/soc-ai/) in previous eras.  
+3. The use of computation was already widespread when I began my career as an undergraduate at Berkeley's [Center for Ethnographic Research](https://issi.berkeley.edu/cer/about). This is seen not only in computer-assisted qualitative data analysis software (CAQDAS- which I taught for decades), statistical computing, and the current [proliferation of AI](https://www.cultureofmedicine.org/blog/a-silicon-cage-qualitative-research-in-the-era-of-ai), but in myriad digital tools used in methods assumed to be analog (like ethnography). The contours of algorithmic/ordinal society shape our work in ways both overt and subtle. Grammar checkers and auto-complete suggestions nudge our use of language, indices of books and articles in libraries shape what we read (and how works get cited), sorting algorithms order our web searches, targeted marketing and news feeds shape our perceptions and mood during downtime, even before chatbots, automations and deepfakes. This makes [thoughtful use of qualitative computing](https://arxiv.org/abs/2509.12503), and perhaps social scientific inquiry using in-depth methods to understand life in situ, more important than ever. The challenge of navigating technology is not new however, and has some inspiring parallels in how thinkers repurposed  technologies like filing cabinets to [facilitate rigorous and imaginative social inquiry](https://contexts.org/blog/soc-ai/) in previous eras.  
 
 ### _Can I Use Your Tools If I Don’t Agree With You About Something?_
 Yes. Absolutely.  
@@ -172,9 +184,9 @@ Feel free to use and adapt. If you develop something new and useful, please cons
 License information is located in the toolkit repositories. This is free software, intended to encourage collaboration and broader non-commercial use with attribution—ideally to address shared challenges rather than create barriers.  
 
 ### _Can I help?_
-For any inquiries or errors, please email me at corey.abramson@rice.edu
+For any inquiries or errors, please email me at corey.abramson@rice.edu. More TBA.
 
 ### _Anything else?_
-You can read a recent review piece about underlying principles of combining computation and qualitative analysis [here](https://osf.io/preprints/socarxiv/7bsgy_v1) and see more examples (over time). Check out [this page](https://github.com/Computational-Ethnography-Lab) over time for updates. 
+You can read a recent review piece about underlying principles of combining computation and qualitative analysis [here](https://arxiv.org/abs/2509.12503) and see more examples (over time). Check out [this page](https://github.com/Computational-Ethnography-Lab) over time for updates, and consider following the repository. 
 
 You can also send an email if you have thoughts, have an example to share, or want to contribute/collaborate/comment. 
