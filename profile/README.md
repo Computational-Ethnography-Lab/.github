@@ -6,7 +6,7 @@
 
 *Deploying and developing cutting-edge methodological techniques at the intersection of field research and computational social science to address complex problems of scientific and policy importance.* Located @ Rice University.
 
-Preprint of new Annual Review of Sociology article on  Qualitative Research, AI and Computation [here](https://arxiv.org/abs/2509.12503)
+New Annual Review of Sociology article on  Qualitative Research, AI and Computation [here]([https://arxiv.org/abs/2509.12503](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-011824-104836))
 
 You can download the latest pre-release version of our CMAP* Visualization Toolkit [here](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) or access an online version on [Google Collab](https://colab.research.google.com/github/Computational-Ethnography-Lab/cmap_visualization_toolkit/blob/v0.9.5/visualization_toolkit_final.ipynb).  
 _* CMAP = Cultural Mapping and Pattern Analysis_  
