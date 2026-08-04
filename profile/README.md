@@ -10,7 +10,7 @@ New Annual Review of Sociology article on Qualitative Research, AI and Computati
 
 New American Sociological Review article on Temporal Misalignment and Unequal Agency [here](https://journals.sagepub.com/doi/10.1177/00031224261448220)
 
-You can download the latest pre-release version of our CMAP* Visualization Toolkit [here](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) or access an online version on [Google Collab](https://colab.research.google.com/github/Computational-Ethnography-Lab/cmap_visualization_toolkit/blob/v0.9.5/visualization_toolkit_final.ipynb).  
+You can download the latest pre-release version of our CMAP* Visualization Toolkit [here](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) or access an online version on [Google Collab](https://colab.research.google.com/github/Computational-Ethnography-Lab/cmap_visualization_toolkit/blob/v0.9.6/visualization_toolkit_final.ipynb).  
 _* CMAP = Cultural Mapping and Pattern Analysis_  
 [![GitHub release](https://img.shields.io/github/v/release/Computational-Ethnography-Lab/cmap_visualization_toolkit?include_prereleases)](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit/releases)
 
@@ -44,7 +44,7 @@ Computational ethnography extends rather than replaces human reasoning by linkin
 ## People
 
 ### Principal Investigator
-**Corey M. Abramson, Ph.D.** Associate Professor of Sociology, [Rice University](https://profiles.rice.edu/faculty/corey-m-abramson)  
+**Corey M. Abramson, Ph.D.** Professor of Sociology, [Rice University](https://profiles.rice.edu/faculty/corey-m-abramson)  
 Co-Director, [Center for Computational Insights on Inequality and Society (CIISR)](https://ciisr.rice.edu/)  
 
 **Sociology**: stratification and inequality, health and medicine, culture, aging, networks, methodology (qualitative, computational and mixed methods), theory  
@@ -72,11 +72,12 @@ Co-Director, [Center for Computational Insights on Inequality and Society (CIISR
 
 - [Department of Sociology, Rice University](https://sociology.rice.edu/)  
 - [Center for Computational Insights on Inequality and Society (CIISR), Rice University](https://ciisr.rice.edu/)
-- [Data Science, Rice University](https://datascience.rice.edu/research/methods-development)
+- Faculty, [Data Science Initiative, Rice University](https://datascience.rice.edu/research/methods-development)
 - [Medical Cultures Lab, UC San Francisco](https://www.cultureofmedicine.org)  
 - [Center for Ethnographic Research, UC Berkeley](https://issi.berkeley.edu/cer)
 - [Institute of Health Resilience and Innovation, Rice University](https://ihri.rice.edu/)
 - [Ken Kennedy Institute, Rice University](https://kenkennedy.rice.edu/)
+- Fellow, [Center for Advanced Study in the Behavioral Sciences (CASBS)](https://casbs.stanford.edu/), Stanford University (2026–27)
 
 #### Professional Service & Scientific Advisory
 
@@ -145,7 +146,7 @@ Arteaga et al., 2025,_The Gerontologist_,  [Understanding how social context sha
 ### Teaching Resources
 
 **Blogs and Interactive Notebooks**:  
-  - [CMAP Visualization Toolkit](https://colab.research.google.com/github/Computational-Ethnography-Lab/cmap_visualization_toolkit/blob/v0.9.5/visualization_toolkit_final.ipynb)
+  - [CMAP Visualization Toolkit](https://colab.research.google.com/github/Computational-Ethnography-Lab/cmap_visualization_toolkit/blob/v0.9.6/visualization_toolkit_final.ipynb)
   - [Qualitative Coding Simplified](https://cmabramson.com/resources/f/qualitative-coding-simplified)  
   - [Sub-setting Qualitative Data for Machine Learning](https://cmabramson.com/resources/f/sub-setting-qualitative-data-for-machine-learning)  
   - [Using Machine Learning with Ethnographic Interviews](https://cmabramson.com/resources/f/using-machine-learning-with-ethnographic-interviews)
