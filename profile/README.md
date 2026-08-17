@@ -133,7 +133,7 @@ Examples are paired with qualitative data, to show both patterns and specifics:
 *A word-cloud, with user defined concept groups represented as color coding.*
 
 *Data translation tool*
-- in progress
+- [CMAP QDPX converter](https://github.com/Computational-Ethnography-Lab/cmap_qdpx_converter)
 
 ### Replication Code
 
