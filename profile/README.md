@@ -6,13 +6,15 @@
 
 *Deploying and developing cutting-edge methodological techniques at the intersection of field research and computational social science to address complex problems of scientific and policy importance.* Located @ Rice University.
 
-New Annual Review of Sociology article on Qualitative Research, AI and Computation [here](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-011824-104836)
+![NEW](https://img.shields.io/badge/NEW-1a7f37?style=flat-square) Annual Review of Sociology article on Qualitative Research, AI and Computation [here](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-011824-104836)
 
-New American Sociological Review article on Temporal Misalignment and Unequal Agency [here](https://journals.sagepub.com/doi/10.1177/00031224261448220)
+![NEW](https://img.shields.io/badge/NEW-1a7f37?style=flat-square) American Sociological Review article on Temporal Misalignment and Unequal Agency [here](https://journals.sagepub.com/doi/10.1177/00031224261448220)
 
-New Social Science & Medicine article on pragmatic sensemaking and life with dementia [here](https://doi.org/10.1016/j.socscimed.2026.119829) (blog [here](https://computationalethnography.org/writing/pragmatic-sensemaking/)).
+![NEW](https://img.shields.io/badge/NEW-1a7f37?style=flat-square) Social Science & Medicine article on pragmatic sensemaking and life with dementia [here](https://doi.org/10.1016/j.socscimed.2026.119829) (blog [here](https://computationalethnography.org/writing/pragmatic-sensemaking/)).
 
-You can download the latest pre-release version of our CMAP* Visualization Toolkit [here](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) or access an online version on [Google Collab](https://colab.research.google.com/github/Computational-Ethnography-Lab/cmap_visualization_toolkit/blob/v0.9.6/visualization_toolkit_final.ipynb).  
+![NEW](https://img.shields.io/badge/NEW-1a7f37?style=flat-square) AI wiki: [Everything You Wanted to Know About AI (in social science)](https://github.com/Computational-Ethnography-Lab/ai-wiki)
+
+You can download the latest pre-release version of our CMAP* Visualization Toolkit [here](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit) or access an online version on [Google Colab](https://colab.research.google.com/github/Computational-Ethnography-Lab/cmap_visualization_toolkit/blob/v0.9.6/visualization_toolkit_final.ipynb).  
 _* CMAP = Cultural Mapping and Pattern Analysis_  
 [![GitHub release](https://img.shields.io/github/v/release/Computational-Ethnography-Lab/cmap_visualization_toolkit?include_prereleases)](https://github.com/Computational-Ethnography-Lab/cmap_visualization_toolkit/releases)
 
@@ -88,7 +90,7 @@ Co-Director, [Center for Computational Insights on Inequality and Society (CIISR
 ### Key Contributors
 - [**Zhuofan Li, Ph.D.**](https://liberalarts.vt.edu/departments-and-schools/department-of-sociology/faculty/zhuofan-li.html) — Assistant Professor of Sociology, Virginia Tech  
 - [**Tara Prendergast, ABD**](https://sociology.arizona.edu/person/tara-prendergast) — Ph.D Candidate, Sociology, University of Arizona  
-- [**Victoria (Yuhan) Nian**](https://www.linkedin.com/in/yuhannian) — Undergraduate Student, Statistics/Data Science, Rice University  
+- [**Victoria (Yuhan) Nian**](https://www.linkedin.com/in/yuhannian) — Rice Alum  
 - [**Jakira Silas**](https://profiles.rice.edu/student/jakira-silas) — Graduate Student, Sociology, Rice University
 - [**Kieran Turner, ABD**](https://profiles.rice.edu/student/kieran-turner) - Ph.D Candidate, Sociology, Rice University
 - [**Rongchen Wang**](https://profiles.rice.edu/student/rongchen-wang) - Graduate Student, Sociology, Rice University
@@ -103,7 +105,7 @@ Co-Director, [Center for Computational Insights on Inequality and Society (CIISR
 -   *Time and Inequality at the End of Life:* Li, Zhuofan, Daniel Dohan, and Corey M. Abramson. 2026. "Temporal Misalignment and Unequal Agency: What Terminal Cancer Patients Teach Us about Time and Inequality." *American Sociological Review* 91(4):545–571. [Link](https://journals.sagepub.com/doi/10.1177/00031224261448220) | [DOI](https://doi.org/10.1177/00031224261448220)
 -   *Meaning-Making and Dementia:* Abramson, Corey M., Kieran L. Turner, Ignacia Arteaga, Alma Hernández de Jesús, Brandi Ginn, Yuhan Nian, and Daniel Dohan. 2026. "Pragmatic Sensemaking: Mapping the Cultural Work of People Living with Dementia and Their Care-Partners." *Social Science & Medicine* 409:119829. [Link](https://doi.org/10.1016/j.socscimed.2026.119829) | [Blog](https://computationalethnography.org/writing/pragmatic-sensemaking/)
 -   *Blog on Uses:* Abramson, Corey M. 2024. “From Carbon Paper to Code: Crafting Sociology in an Age of AI.” *Contexts* Blog. [Link](https://computationalethnography.org/writing/from-carbon-paper-to-code/)
--   *Workflow*: Li, Zhuofan, and Corey M. Abramson. 2025. “Ethnography and Machine Learning: Synergies and New Directions.” Pp. 245–272 in *The Oxford Handbook of the Sociology of Machine Learning*, edited by C.Borch and J. P. Pardo-Guerra. Oxford: Oxford University Press. [Link](https://arxiv.org/pdf/2412.06087)
+-   *Workflow*: Li, Zhuofan, and Corey M. Abramson. 2025. “Ethnography and Machine Learning: Synergies and New Directions.” Pp. 245–272 in *The Oxford Handbook of the Sociology of Machine Learning*, edited by C.Borch and J. P. Pardo-Guerra. Oxford: Oxford University Press. [Link](https://doi.org/10.1093/oxfordhb/9780197653609.013.36) | [Preprint](https://arxiv.org/pdf/2412.06087)
 -   *Principles*: Abramson, Corey M., Jacqueline Joslyn, Katharine A. Rendle, Sarah B. Garrett, and Daniel Dohan. 2018. “The Promises of Computational Ethnography.” *Ethnography* 19(2):254–284. [DOI](https://doi.org/10.1177/1466138117725340)
 -   *Example*: Abramson, Corey M., Zhuofan Li, Tara Prendergast, and Martín Sánchez-Jankowski. 2024. “Inequality in the Origins and Experiences of Pain.” *RSF Journal of the Social Sciences* 10(5):34–65. [Open Access PDF](https://www.rsfjournal.org/content/rsfjss/10/5/34.full.pdf)
 -   *Technical*: Li, Zhuofan, Daniel Dohan, and Corey M. Abramson. 2021. "Qualitative Coding in the Computational Era: A Hybrid Approach to Improve Reliability and Reduce Effort for Coding Ethnographic Interviews." *Socius* 7. (_Early example of scaling human coding using transformer models and human-in-the-loop approaches._) [Open Access](https://osf.io/preprints/socarxiv/gpr4n_v1) | [GitHub repo](https://github.com/lizhuofan95/Scaling_Human_Coding) | [Blog explanation](https://cmabramson.com/resources/f/using-machine-learning-with-ethnographic-interviews)
@@ -112,7 +114,7 @@ Co-Director, [Center for Computational Insights on Inequality and Society (CIISR
 ### Citations 
 - Abramson, Corey M., Jacqueline Joslyn, Katharine A. Rendle, Sarah B. Garrett, and Daniel Dohan. 2018. “The Promises of Computational Ethnography: Improving Transparency, Replicability, and Validity for Realist Approaches to Ethnographic Analysis.” Ethnography 19(2):254–84. doi:10.1177/1466138117725340.
 - Abramson, Corey M., Tara Prendergast, Zhuofan Li, and Daniel Dohan. 2026. “Qualitative Research in an Era of Artificial Intelligence: A Pragmatic Approach to Data Analysis, Workflow, and Computation.” Annual Review of Sociology 52(1):35–61. doi:10.1146/annurev-soc-011824-104836.
-- Breiger, Ronald L. 2015. “Scaling Down.” Big Data & Society 83(7):42–44. doi:10.1177/2053951715602497.
+- Breiger, Ronald L. 2015. “Scaling Down.” Big Data & Society 2(2). doi:10.1177/2053951715602497.
 - Du Bois, W. E. B. (William Edward Burghardt). 1899. The Philadelphia Negro: A Social Study. Philadelphia: University of Pennsylvania Press.
 - Du Bois, W. E. B. (William Edward Burghardt). 1900. Charts and Graphs Showing the Condition of African Americans at the Turn of the Century Exhibited at the Paris Exposition Universelle in 1900. Washington, D.C.: Library of Congress, Prints & Photographs Division.
 - DiMaggio, Paul. 2015. “Adapting Computational Text Analysis to Social Science (and Vice Versa).” Big Data & Society 2(2):2053951715602908. doi:10.1177/2053951715602908.
@@ -142,7 +144,7 @@ Examples are paired with qualitative data, to show both patterns and specifics:
 
 *Papers*
 - Heatmaps:
-Arteaga et al., 2025,_The Gerontologist_,  [Understanding how social context shapes decisions to seek institutional care: A qualitative study of experiences of progressive cognitive decline among Latinx families. The Gerontologist.](https://github.com/Computational-Ethnography-Lab/replication_code/blob/51f7ab8b3dbabedc56e470a348904a4e70216809/latinx_array_final.R)
+Arteaga et al., 2025,_The Gerontologist_,  [Understanding how social context shapes decisions to seek institutional care: A qualitative study of experiences of progressive cognitive decline among Latinx families. The Gerontologist.](https://github.com/Computational-Ethnography-Lab/replication_code/blob/main/arteaga_2025_latinx_heatmap/latinx_array_final.R)
 - Text Classification:
 - Li, Dohan and Abramson 2021. (_Early example of scaling human coding using transformer models and human-in-the-loop approaches._) [Qualitative Coding in the Computational Era. *Socius* (2021)](https://osf.io/preprints/socarxiv/gpr4n_v1) | [GitHub repo](https://github.com/lizhuofan95/Scaling_Human_Coding)
   
@@ -157,7 +159,9 @@ Arteaga et al., 2025,_The Gerontologist_,  [Understanding how social context sha
 
 **Video Tutorials**:
 -  [Set-up CMAP toolkit and use in Google Colab](https://vimeo.com/1122226315)
--  Set-up python environment (in progress)
+-  [Set-up python environment](https://youtu.be/mP-FOogmJuM)
+-  [Introduction to GitHub](https://youtu.be/JjYRAsXUL54)
+-  [Cloning a repository](https://youtu.be/dnsLjgckl4g)
 -  CMAP Visualization Walkthrough (in progress)
 -  CMAP Visualization advanced walkthrough (in progress)
 -  Data connector walkthrough (in progress)
